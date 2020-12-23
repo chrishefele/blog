@@ -40,6 +40,22 @@
   
 
   
+      ,"page3": {
+          "title": "Portfolio",
+          "content": "Hello, you can browse my PORTFOLIO here .",
+          "url": "https://chrishefele.github.io/blog/portfolio/",
+          "relUrl": "/portfolio/",
+          "date": ""
+      }
+      
+  
+
+  
+  
+
+  
+
+  
   
 
   
@@ -48,18 +64,13 @@
   
 
   
-
-  
   
 
   
   
 
   
-  
-
-  
-      ,"page10": {
+      ,"page11": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://chrishefele.github.io/blog/robots.txt",
