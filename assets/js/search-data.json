@@ -38,17 +38,6 @@
   
 
   
-      ,"page2": {
-          "title": "Hidden Page",
-          "content": "This is a hidden page, to test what pages I can add! .",
-          "url": "https://chrishefele.github.io/blog/hidden/",
-          "relUrl": "/hidden/",
-          "date": ""
-      }
-      
-  
-
-  
 
   
   
@@ -70,7 +59,7 @@
   
 
   
-      ,"page11": {
+      ,"page10": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://chrishefele.github.io/blog/robots.txt",
