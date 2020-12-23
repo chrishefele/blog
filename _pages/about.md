@@ -3,9 +3,9 @@ layout: page
 title: About Me
 permalink: /about/
 ---
+Hello, I'm Chris Hefele.  Welcome!
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+I'm an engineer in the greater NYC area. If you're here to find out more about me, check out [LinkedIn](https://www.linkedin.com/in/christopherhefele/) or [Twitter](https://twitter.com/ChrisHefele).
 
+This site is intended to be a landing spot for items that I think are interesting, plus thoughts that won't fit in a tweet.  
 
-
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
